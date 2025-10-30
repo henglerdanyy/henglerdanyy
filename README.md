@@ -46,11 +46,11 @@ Meu principal objetivo é me tornar uma Desenvolvedora Full Stack, unindo minha 
 ### <h3 align="center">🏆 Bootcamps</h3>
 <br>
 <p align="center">
-  <img alt="Neo4j - Análise de Dados com Grafos" title="Neo4j - Análise de Dados com Grafos" width="50px" style="padding: 5px;" src="https://assets.dio.me/XH3JbkyumWIdOs9Tk0f1WxIcR7fdgrT5qOJVjvm4sM0/f:webp/h:120/q:80/L3RyYWNrcy85MjJmMTJmNC0yZjhkLTRlYWMtYTRiZC05YTM5NmJkNDhjYzkucG5n">
+  <img alt="Neo4j - Análise de Dados com Grafos" title="Neo4j - Análise de Dados com Grafos" width="60px" style="padding: 5px;" src="https://assets.dio.me/XH3JbkyumWIdOs9Tk0f1WxIcR7fdgrT5qOJVjvm4sM0/f:webp/h:120/q:80/L3RyYWNrcy85MjJmMTJmNC0yZjhkLTRlYWMtYTRiZC05YTM5NmJkNDhjYzkucG5n">
 
-  <img alt="Luizalabs - Back-end com Python" title="Luizalabs - Back-end com Python" width="50px" style="padding: 5px;" src="https://assets.dio.me/Xl98YWbvhhAF2MJhHva1jjFf-NNKiYP86uVUHeJpj6U/f:webp/h:120/q:80/L3RyYWNrcy84MmI1NWE0OC1kOTlmLTRjZDItYjJhMC1hNjc0N2JkYjM5YzUucG5n">
+  <img alt="Luizalabs - Back-end com Python" title="Luizalabs - Back-end com Python" width="60px" style="padding: 5px;" src="https://assets.dio.me/Xl98YWbvhhAF2MJhHva1jjFf-NNKiYP86uVUHeJpj6U/f:webp/h:120/q:80/L3RyYWNrcy84MmI1NWE0OC1kOTlmLTRjZDItYjJhMC1hNjc0N2JkYjM5YzUucG5n">
 
-<img alt="Santander - Ciência de Dados com Python" title="Santander - Ciência de Dados com Python" width="50px" style="padding: 5px;" src="https://assets.dio.me/0oZ3rvm63UDiHP-IbWyVBaC5R8cUxF_JcqtTvyGdHvA/f:webp/h:120/q:80/L3RyYWNrcy8wOWI2NGMyZS1lNzE5LTRiNWYtOGQyMi1hMzY3OWIyYzFjZGQucG5n">
+<img alt="Santander - Ciência de Dados com Python" title="Santander - Ciência de Dados com Python" width="60px" style="padding: 5px;" src="https://assets.dio.me/0oZ3rvm63UDiHP-IbWyVBaC5R8cUxF_JcqtTvyGdHvA/f:webp/h:120/q:80/L3RyYWNrcy8wOWI2NGMyZS1lNzE5LTRiNWYtOGQyMi1hMzY3OWIyYzFjZGQucG5n">
 </p>
 
 ---

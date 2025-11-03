@@ -7,8 +7,6 @@ Olá! Eu sou a Danyelle Hengler, tenho 21 anos e sou de São Paulo 🇧🇷.
 Atualmente curso o 2º semestre de Análise e Desenvolvimento de Sistemas e complemento meus estudos com conteúdos sobre programação, análise de dados e cibersegurança.  
 Sou movida pela curiosidade e pelo desejo constante de aprender, adoro explorar novos conhecimentos, sair da zona de conforto e transformar ideias em projetos reais.  
 
-Fora da tecnologia, sou apaixonada por livros, música, filmes e atividades manuais como cerâmica, botânica, pintura e instrumentos musicais. Acredito que o conhecimento é o que conecta o mundo — por isso, busco sempre compartilhar o que aprendi e contribuir com o crescimento coletivo.  
-
 Meu principal objetivo é me tornar uma Desenvolvedora Full Stack, unindo minha paixão por tecnologia à vontade de impactar positivamente o mundo digital.
 </p>
 
